@@ -1,6 +1,6 @@
 # Page two
 
-## This is the headline of your second page
+## Disadvantages of an open source software
 
 The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
 
