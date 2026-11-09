@@ -23,5 +23,8 @@ As a Master srtudent I think thar VLO could be a useful resource for my studies,
 - https://www.clarin.eu/content/virtual-language-observatory-vlo
 - https://github.com/clarin-eric/VLO
 https://vlo.clarin.eu/about
+- https://dev.clarin.nl/node/1954.html
+- https://cordis.europa.eu/article/id/89627-webbased-language-data-and-processing-tools
+
 
 

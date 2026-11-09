@@ -19,7 +19,8 @@ OSS is widley used in everyday technology, for instance many smartphones, smart 
 
 
 
-![The beach at Skagen](./assets/images/skagen.jpg)
+![OSS network](./assets/images/OSS.jpg)
+
 
 # Sources:
 - https://opensource.com/resources/what-open-source
