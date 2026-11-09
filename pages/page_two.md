@@ -1,10 +1,15 @@
-# Page two
+# Open Source Software 
 
 ## Disadvantages of an open source software
 
-The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
+Despite its many benefits, OSS also carries some disadvantages. One common misconception is that becuase OSS is free to download and use, it is free to maintain and develop. However, installation,l updates, maintainance, and technical support may involve additional costs.
 
-There is only one HTML file, index.html. It holds the frame around the text: the navigation, the banner and the footer. The link in the navigation decides which markdown file is shown inside the frame. The words themselves live in a markdown file, which is much quicker to write than HTML. Many websites work the same way: the content is kept separately from the page that displays it.
+Secondly, some programs can be difficult to install or use, especially for whom without a deep technological knowledge. 
+
+another disadvantage is the lack of professional support, meaning that users may have to rely on online communities or forums to find solutions to their problems.
+
+Finally, some open-source projects depends on volunteers for their development and maintenance. If contributors lose interest or stop working on a project, the software may become outdated or abandoned. This can also create security risks if bugs and vulnerabilities are no longer fixed.
+
 
 ### Another headline
 
