@@ -3,7 +3,7 @@
 
 ## What is an Open Source Software and what advantages can it bring?
 
-An Open-source software referes to a software whose source code is publicly available, allowing anyone to view, use, modify, and share it. It is often built collaboratively by a community of contributors, many of whom are volunteers. This means that developers can work together to improve the software, fix problems, and add new features.
+An Open-source software refers to a software whose source code is publicly available, allowing anyone to view, use, modify, and share it. It is often built collaboratively by a community of contributors, many of whom are volunteers. This means that developers can work together to improve the software, fix problems, and add new features.
 
 
 
@@ -11,7 +11,7 @@ An Open-source software referes to a software whose source code is publicly avai
 In recent years, OSS has been widely adopted by developers and users, due to several advantages it offers:
 - Lower costs: many open source are free to use
 - Flexibility: users can customize the software based on their needs
-- Transparency: the source the source code is publicly accesible
+- Transparency: the source the source code is publicly accessible
 - Security: the developer can identify and fix potential problems
 - Collaboration: allows users/developers to share ideas and contribute to improve the software 
 
