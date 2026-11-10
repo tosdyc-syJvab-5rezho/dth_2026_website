@@ -233,6 +233,6 @@ main img {
   font-weight: 300;
   }
 
-.site-title {
-    color: #356859;
+#bannerShadow h1 {
+    color: #008080; 
 }
