@@ -22,10 +22,15 @@ OSS is widley used in everyday technology, for instance many smartphones, smart 
 ![OSS network](./assets/images/OSS.jpg)
 
 
+
 # Sources:
 - https://opensource.com/resources/what-open-source
 - https://baserow.io/blog/the-benefits-of-open-source-software
 - https://nebius.com/blog/posts/open-source-vs-proprietary
 - https://www.techtarget.com/news/5-advantages-and-6-disadvantages-of-open-source-software/847664/
 - https://www.turing.ac.uk/blog/open-source-software-why-it-matters-and-how-get-involved
+- https://www.how2shout.com/tools/top-best-open-source-social-network-platforms.html
+- https://testrigor.com/blog/open-source-software-development-the-pros-and-cons/
+
+
 
