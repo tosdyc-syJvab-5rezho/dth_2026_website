@@ -24,13 +24,15 @@ OSS is widley used in everyday technology, for instance many smartphones, smart 
 
 
 # Sources:
-- https://opensource.com/resources/what-open-source
-- https://baserow.io/blog/the-benefits-of-open-source-software
-- https://nebius.com/blog/posts/open-source-vs-proprietary
-- https://www.techtarget.com/news/5-advantages-and-6-disadvantages-of-open-source-software/847664/
-- https://www.turing.ac.uk/blog/open-source-software-why-it-matters-and-how-get-involved
-- https://www.how2shout.com/tools/top-best-open-source-social-network-platforms.html
-- https://testrigor.com/blog/open-source-software-development-the-pros-and-cons/
+- What is an open source?. OpenSource.com https://opensource.com/resources/what-open-source
+- Wiepjes, B., & Brisk, G. (2024, 11 June). The benefits of using open-source software. Baserow. https://baserow.io/blog/the-benefits-of-open-source-software
+- Nebius. (2024, August 28). Open-source vs. proprietary software. https://nebius.com/blog/posts/open-source-vs-proprietary
+- Pratt, M. (2022, October 25). 5 advantages and 6 disadvantages of open source software. TechTarget.https://www.techtarget.com/news/5-advantages-and-6-disadvantages-of-open-source-software/847664/
+- Madge, J., & Bennett, A. (2024, June 18). Open-source software: Why it matters and how to get involved. The Alan Turing Institute. https://www.turing.ac.uk/blog/open-source-software-why-it-matters-and-how-get-involved
+
+# Image Sources:
+- H2S Media Team. (2024, August 4). 10 top best free & open source social network platforms to start your own. H2S Media.  https://www.how2shout.com/tools/top-best-open-source-social-network-platforms.html
+- Prabhudesai, S. (n.d.). Open source software development: The pros and cons. testRigor. https://testrigor.com/blog/open-source-software-development-the-pros-and-cons/
 
 
 
