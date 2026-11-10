@@ -24,11 +24,14 @@ As a Master's student in Intercultural Studies, I think that CLARIN's VLO could 
 
 
 # SOURCES
-- https://www.clarin.eu/content/virtual-language-observatory-vlo
-- https://github.com/clarin-eric/VLO
+- CLARIN ERIC. (n.d.). <em>Virtual Language Observatory (VLO)</em>. https://www.clarin.eu/content/virtual-language-observatory-vlo
+- CLARIN ERIC. (n.d.). <em>VLO: Virtual Language Observatory</em>. GitHub.
+https://github.com/clarin-eric/VLO
 https://vlo.clarin.eu/about
-- https://dev.clarin.nl/node/1954.html
-- https://cordis.europa.eu/article/id/89627-webbased-language-data-and-processing-tools
+- CLARIN ERIC. (n.d.). <em>About the Virtual Language Observatory</em>. https://dev.clarin.nl/node/1954.html
+- European Commission. (n.d.). <em>Web-based language data and processing tools</em>. CORDIS. https://cordis.europa.eu/article/id/89627-webbased-language-data-and-processing-tools
 
-
+# Image Sources
+- SSHOC (Social Sciences and Humanities Open Cloud). CLARIN. https://sshoc.eu/data-catalogues/clarin
+- CLARIN ERIC. (n.d.). <em>Logo-landscape.png</em>. CLARIN.https://www.clarin.eu/media/9367
 
