@@ -12,7 +12,7 @@ VLO could be useful for finding multilangual research material. For example, a s
 - Questions: there are 61 issues open and 289 issues closed 
 - Money: the VLO has been developed and mantained through funds and resources from The European Union’s Horizon 2020 Research and Innovation Programme and CLARIN National Consortia and Members
 
-As a Master's student in Intercultural Studies, I think that CLARIN's Virtual Language Observatory could be a useful resource for my studies, especially when working with multilingual research material. I would consider relying on it as a starting point for my thesis because it provides access to a wide range of language resources. However, I would not depend on it as my only source of information. 
+As a Master's student in Intercultural Studies, I think that CLARIN's Virtual Language Observatory could be a useful resource for my studies, especially when working with multilingual research material. It could help me find different types of sources and explore topics from a wider perspective. I would consider relying on it as a starting point for my thesis because it provides access to a wide range of language resources. However, I would not depend on it as my only source of information. 
 
 
 
