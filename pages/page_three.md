@@ -23,7 +23,7 @@ As a Master's student in Intercultural Studies, I think that CLARIN's VLO could 
 
 
 
-# SOURCES
+# Sources
 - CLARIN ERIC. (n.d.). <em>Virtual Language Observatory (VLO)</em>. https://www.clarin.eu/content/virtual-language-observatory-vlo
 - CLARIN ERIC. (n.d.). <em>VLO: Virtual Language Observatory</em>. GitHub.
 https://github.com/clarin-eric/VLO
