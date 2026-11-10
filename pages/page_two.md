@@ -1,6 +1,6 @@
 # Open Source Software 
 
-## Disadvantages of an open source software
+## Disadvantages of an Open Source Software
 
 Despite its many benefits, Open source software also carries some disadvantages. One common misconception is that because OSS is free to download and use, it is also free to maintain and develop. However, installation, updates, maintenance, and technical support may involve additional costs. For example, a municipality choosing open source software might save money on license but still need to pay IT specialist to install, manage, and maintain the system. There might also be additional costs for employee training or transferring data from an old system.
 
