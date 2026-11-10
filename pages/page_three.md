@@ -5,6 +5,10 @@ The Virtual Language Observatory (VLO) is an online tool developed by CLARIN ERI
 
 VLO could be also useful for finding multilangual research material. For example, a student studying how migration is discussed across European countries could use it to find text collections in different languages ad compare how migration and cultural diversity are discussed in different languages and social contexts. This would make it easier to find existing reaserch material without having to collect all the data from scratch.
 
+![clarin](./assets/images/clarin2.png)
+
+
+
 # GitHub Checks:
 - License: the current license is GPL-3.0. It allows users to freely use, modify, copy and share the software, including for commercial propose, as long as they follow the conditions of the license.
 - Last change: the latest change is made on the 9th of November 2026 by radudoros
