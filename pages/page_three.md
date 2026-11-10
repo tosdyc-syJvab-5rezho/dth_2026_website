@@ -10,11 +10,11 @@ VLO could be also useful for finding multilangual research material. For example
 
 
 # GitHub Checks:
-- License: the current license is GPL-3.0. It allows users to freely use, modify, copy and share the software, including for commercial propose, as long as they follow the conditions of the license.
-- Last change: the latest change is made on the 9th of November 2026 by radudoros
-- Contributors: there are 12 active contributors 
-- Questions: there are 61 issues open and 289 issues closed.The closed issues also suggest that several reported problems have been adressed, although not all of them are necessarily question
-- Money: the VLO has been developed and maintained through funds and resources from The European Union’s Horizon 2020 Research and Innovation Programme and CLARIN National Consortia and Members
+- <strong>License</strong>: the current license is GPL-3.0. It allows users to freely use, modify, copy and share the software, including for commercial propose, as long as they follow the conditions of the license.
+- <strong>Last change</strong>: the latest change is made on the 9th of November 2026 by radudoros
+- <strong>Contributors</strong>: there are 12 active contributors 
+- <strong>Questions</strong>: there are 61 issues open and 289 issues closed.The closed issues also suggest that several reported problems have been adressed, although not all of them are necessarily question
+- <strong>Money</strong>: the VLO has been developed and maintained through funds and resources from The European Union’s Horizon 2020 Research and Innovation Programme and CLARIN National Consortia and Members
 
 As a Master's student in Intercultural Studies, I think that CLARIN's VLO could be a useful resource for my studies, especially when working with multilingual research material. It could help me find different types of sources and explore topics from a wider perspective. I would consider relying on it as a starting point for my thesis because it provides access to a wide range of language resources. However, I would not depend on it as my only source of information. 
 
