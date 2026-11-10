@@ -8,7 +8,8 @@ Secondly, some programs can be difficult to install or use, especially for peopl
 
 Another disadvantage is the lack of professional support, meaning that users may have to rely on online communities or forums to find solutions to their problems. 
 
-Finally, some open source projects depends on volunteers for their development and maintenance. If contributors lose interest or stop working on a project, the software may become outdated or abandoned. This can also create security risks if bugs and vulnerabilities are no longer fixed.
+Finally, many open source projects rely heavily on unpaid volunteers for their development and maintenance. As Madge and Bennett (2024) explain, this can create a sustainability crisis, especially when contributors experience burnout, change careers or lose interest in the project. As a result, the software may become outdated or even abandoned. This can be a problem for users, such as small municipalities or businesses, that depend on these tools for their daily activities. It can also create security risks, as bugs and vulnerabilities may no longer be fixed.
+
 
 
 
