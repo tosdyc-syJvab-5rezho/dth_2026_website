@@ -17,3 +17,5 @@ Finally, many open source projects rely heavily on unpaid volunteers for their d
 - https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software
 - European Commission, Interoperable Europe. Case Study – Linux Server for the City of Salzburg, https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/case-study-linux-server-city-salzburg
 - Developers Italia. Total Cost of Ownership (TCO), https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/software-acquisition/total-cost-of-ownership.html 
+- https://www.turing.ac.uk/blog/open-source-software-why-it-matters-and-how-get-involved
+
