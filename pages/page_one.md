@@ -29,10 +29,11 @@ OSS is widley used in everyday technology, for instance many smartphones, smart 
 - Nebius. (2024, August 28). Open-source vs. proprietary software. https://nebius.com/blog/posts/open-source-vs-proprietary
 - Pratt, M. (2022, October 25). 5 advantages and 6 disadvantages of open source software. TechTarget.https://www.techtarget.com/news/5-advantages-and-6-disadvantages-of-open-source-software/847664/
 - Madge, J., & Bennett, A. (2024, June 18). Open-source software: Why it matters and how to get involved. The Alan Turing Institute. https://www.turing.ac.uk/blog/open-source-software-why-it-matters-and-how-get-involved
+- Prabhudesai, S. (n.d.). Open source software development: The pros and cons. testRigor. https://testrigor.com/blog/open-source-software-development-the-pros-and-cons/
 
 # Image Sources:
 - H2S Media Team. (2024, August 4). 10 top best free & open source social network platforms to start your own. H2S Media.  https://www.how2shout.com/tools/top-best-open-source-social-network-platforms.html
-- Prabhudesai, S. (n.d.). Open source software development: The pros and cons. testRigor. https://testrigor.com/blog/open-source-software-development-the-pros-and-cons/
+- Prabhu, V. (2021, July 15). What is open source software? YoungWonks. https://www.youngwonks.com/blog/What-is-Open-Source-Software
 
 
 

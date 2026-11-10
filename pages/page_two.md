@@ -14,8 +14,10 @@ Finally, many open source projects rely heavily on unpaid volunteers for their d
 
 
 # Sources
-- https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software
-- European Commission, Interoperable Europe. Case Study – Linux Server for the City of Salzburg, https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/case-study-linux-server-city-salzburg
-- Developers Italia. Total Cost of Ownership (TCO), https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/software-acquisition/total-cost-of-ownership.html 
-- https://www.turing.ac.uk/blog/open-source-software-why-it-matters-and-how-get-involved
+- NI Business Info. (n.d.). Disadvantages of open source software. https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software
+- Nagler, M. (2005, January 31). Case study – Linux server for the City of Salzburg. Interoperable Europe Portal, European Commission. https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/case-study-linux-server-city-salzburg
+- Developers Italia. (n.d.). Total cost of ownership (TCO). https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/software-acquisition/total-cost-of-ownership.html 
+- Madge, J., & Bennett, A. (2024, June 18). Open-source software: Why it matters and how to get involved. The Alan Turing Institute. https://www.turing.ac.uk/blog/open-source-software-why-it-matters-and-how-get-involved
 
+# Image Sources
+- Prabhudesai, S. (n.d.). Open source software development: The pros and cons. testRigor. https://testrigor.com/blog/open-source-software-development-the-pros-and-cons/
