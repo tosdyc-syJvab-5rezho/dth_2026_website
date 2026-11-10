@@ -56,7 +56,7 @@ section {
 }
 
 #navBar>a:hover {
-  color: var(--green);
+  color: var(--blue);
   cursor: pointer;
 }
 .navLink:hover {
@@ -73,6 +73,7 @@ section {
   background-repeat: no-repeat;
   height: 40vh;
 }
+
 
 #bannerShadow {
   background-color: rgba(160, 213, 240, 0.447);
@@ -231,5 +232,5 @@ main img {
 #content ul {
   font-weight: 300;
   }
-  
+
 
