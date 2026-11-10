@@ -1,4 +1,4 @@
-# Open Source Software 
+# OPEN SOURCE SOFTWARE
 
 
 ## What is an Open Source Software and what advantages can it bring?
@@ -9,11 +9,11 @@ An Open-source software refers to a software whose source code is publicly avail
 
 ### Advantages of an OSS 
 In recent years, OSS has been widely adopted by developers and users, due to several advantages it offers:
-- Lower costs: many open source are free to use
-- Flexibility: users can customize the software based on their needs
-- Transparency: the source the source code is publicly accessible
-- Security: the developer can identify and fix potential problems
-- Collaboration: allows users/developers to share ideas and contribute to improve the software 
+- <strong>Lower costs</strong>: many open source are free to use
+- <strong>Flexibility</strong>: users can customize the software based on their needs
+- <strong>Transparency</strong>: the source the source code is publicly accessible
+- <strong>Security</strong>: the developer can identify and fix potential problems
+- <strong>Collaboration</strong>: allows users/developers to share ideas and contribute to improve the software 
 
 OSS is widley used in everyday technology, for instance many smartphones, smart home devices and websites rely on open-source software such as Linux. It is also used in online banking, secure messaging, and many tools for scientific research and AI.
 
